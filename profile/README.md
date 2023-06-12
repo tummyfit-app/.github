@@ -2,8 +2,8 @@
   <img src="https://avatars.githubusercontent.com/u/133882054" width="50%">
 </p>
 
-<h2 align="center"><strong>🍌TummyFit🍅</strong></h2>
-<h4 align="center"><strong>Personalized Healthy Meal App</strong></h4>
+<h1 align="center"><strong>🍌TummyFit🍅</strong></h1>
+<h3 align="center"><strong>Personalized Healthy Meal App</strong></h3>
 
 
 
