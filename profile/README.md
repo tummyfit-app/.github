@@ -6,11 +6,17 @@
 <h3 align="center"><strong>Personalized Healthy Meal App</strong></h3>
 
 <hr>
-Tummyfit is a mobile application designed to help users maintain a healthier eating pattern. With over 1200 food menu options available, users can experience different types of meals every day. Moreover, this application also assists users in managing their hydration by setting reminders for drinking water, preventing dehydration.
 
+### Features
 
-
-<!--
+- Water Intake: Users can input the amount of water they have consumed daily. This feature provides information to users when it's time for them to drink water, helping them stay hydrated and prevent dehydration.
+  <br>
+- Meals Recommendation: Providing daily food recommendations to users based on their preferences and the goals they want to achieve. This ensures that users are confident in the goals they have set and receive personalized food suggestions accordingly.
+  <br>
+- Favorites: Discover your favorite food and make sure you don't forget what you have enjoyed before!
+  <br>
+- Find your food:Users can search for food based on the name they desire. Simple as that.
+<!--!
 
 **Here are some ideas to get you started:**
 
