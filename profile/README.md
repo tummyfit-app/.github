@@ -25,6 +25,14 @@
 
 ## Sneak peek Our App
 
- <img src="/images/intro_app.jpeg" width="200px">
-  <img src="/images/water_app.jpeg" width="200px">
-   <img src="/images/recipe_app.jpeg" width="200px">
+Here are some sneak peek of our app.
+
+<div align="center">
+ <img src="/images/intro_app.jpeg" width="20%">
+  <img src="/images/water_app.jpeg" width="20%">
+   <img src="/images/recipe_app.jpeg" width="20%">
+      <img src="/images/login.jpeg" width="20%">
+         <img src="/images/register.jpeg" width="20%">
+             <img src="/images/pref_1.jpeg" width="20%">
+              <img src="/images/pref2.jpeg" width="20%">
+</div>
