@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="test" width="50%">
+  <img src="https://avatars.githubusercontent.com/u/133882054" width="50%">
 </p>
 ![Mask group](https://github.com/tummyfit-app/.github/assets/69922597/5580b9d3-183b-4209-ac9d-40d19fd16506)
  <p align="center"> 
