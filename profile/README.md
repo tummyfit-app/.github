@@ -18,7 +18,7 @@
 - Find your food:Users can search for food based on the name they desire. Simple as that.
 
 ## Architecture Design 
- <img src="https://raw.githubusercontent.com/tummyfit-app/.github/main/images/image.png" width="50%"> 
+ <img src="https://raw.githubusercontent.com/tummyfit-app/.github/main/images/image.png" width="100%"> 
 <!--!
 
 **Here are some ideas to get you started:**
