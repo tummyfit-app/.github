@@ -16,20 +16,7 @@
 - Favorites: Discover your favorite food and make sure you don't forget what you have enjoyed before!
   <br>
 - Find your food:Users can search for food based on the name they desire. Simple as that.
-
-## Architecture Design
-
- <img src="https://raw.githubusercontent.com/tummyfit-app/.github/main/images/image.png" width="100%">
-
-## Sneak peek Our App
-
-<div>
- <img src="/images/intro_app.jpeg">
-  <img src="/images/water_app.jpeg">
-   <img src="/images/recipe_app.jpeg">
-
 <!--!
-
 
 **Here are some ideas to get you started:**
 
