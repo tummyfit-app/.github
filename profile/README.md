@@ -5,6 +5,8 @@
 <h1 align="center"><strong>🍌TummyFit🍅</strong></h1>
 <h3 align="center"><strong>Personalized Healthy Meal App</strong></h3>
 
+<hr>
+Tummyfit is a mobile application designed to help users maintain a healthier eating pattern. With over 1200 food menu options available, users can experience different types of meals every day. Moreover, this application also assists users in managing their hydration by setting reminders for drinking water, preventing dehydration.
 
 
 
