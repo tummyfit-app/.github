@@ -2,9 +2,9 @@
   <img src="https://avatars.githubusercontent.com/u/133882054" width="50%">
 </p>
 
-## 🍌TummyFit🍅
-### Personalized Healthy Meal Mobile App
-### Empowering Your Health Journey through Personalized Daily Meal Suggestions.
+<h2 align="center"><strong>🍌TummyFit🍅</strong></h2>
+<h4 align="center"><strong>Personalized Healthy Meal App</strong></h4>
+
 
 
 
