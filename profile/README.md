@@ -26,13 +26,25 @@
 Here are some sneak peek of our app.
 
 <div align="center">
- <img src="/images/intro_app.jpeg" width="20%">
-  <img src="/images/water_app.jpeg" width="20%">
-   <img src="/images/recipe_app.jpeg" width="20%">
-      <img src="/images/login.jpeg" width="20%">
-         <img src="/images/register.jpeg" width="20%">
-             <img src="/images/pref_1.jpeg" width="20%">
-              <img src="/images/pref2.jpeg" width="20%">
+<img src="/images/intro_app.jpeg" width="20%">
+<img src="/images/water_app.jpeg" width="20%">
+<img src="/images/recipe_app.jpeg" width="20%">
+<img src="/images/meal_app.jpeg" width="20%">
+<img src="/images/login.jpeg" width="20%">
+<img src="/images/register.jpeg" width="20%">
+<img src="/images/pref_1.jpeg" width="20%">
+<img src="/images/pref2.jpeg" width="20%">
+<img src="/images/dashboard.jpeg" width="20%">
+<img src="/images/search.jpeg" width="20%">
+<img src="/images/weekly_meal.jpeg" width="20%">
+<img src="/images/recipe.jpeg" width="20%">
+<img src="/images/instruction.jpeg" width="20%">
+<img src="/images/ingredients.jpeg" width="20%">
+<img src="/images/updateprofile.jpeg" 
+width="20%">
+<img src="/images/water_intake.jpeg" 
+width="20%">
+
 </div>
 
 ## Meet Our Team Member
