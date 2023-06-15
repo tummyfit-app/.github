@@ -67,4 +67,7 @@ width="20%">
 <img src="/images/python.png" width="50px" height="50px">
 <img src="/images/tf.png" width="90px" height="55px">
 <img src="/images/pg.png" width="90px" height="60px">
+<img src="/images/express.png" width="90px" height="55px">
+<img src="/images/flask.png" width="90px" height="55px">
+
 </p>
