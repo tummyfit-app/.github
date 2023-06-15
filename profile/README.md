@@ -60,10 +60,11 @@ width="20%">
 
 ## Tech Stack
 
+<p align="center">
 <img src="/images/ts.png" width="90px" height="55px">
 <img src="/images/prisma.png" width="90px" height="55px">
 <img src="/images/kotlin.png" width="90px" height="55px">
-
 <img src="/images/python.png" width="50px" height="50px">
 <img src="/images/tf.png" width="90px" height="55px">
 <img src="/images/pg.png" width="90px" height="60px">
+</p>
