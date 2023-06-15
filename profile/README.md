@@ -34,3 +34,14 @@ Here are some sneak peek of our app.
              <img src="/images/pref_1.jpeg" width="20%">
               <img src="/images/pref2.jpeg" width="20%">
 </div>
+
+## Meet Our Team Member
+
+| Name                                                                                                    | Bangkit ID  |      Learning Path |
+| :------------------------------------------------------------------------------------------------------ | :---------: | -----------------: |
+| [Nashuha Insani](https://www.linkedin.com/in/nashuhainsani/)                                            | M375DSY2765 |   Machine Learning |
+| [Ainun Syafna Maharani](https://www.linkedin.com/in/ainun-syafna-maharani-a831311a4/)                   | M181DSY0108 |   Machine Learning |
+| [Muhammad Rafly Afrizal Pratama](https://www.linkedin.com/in/muhammad-rafly-afrizal-pratama-73a895209/) | C375DSX0630 |    Cloud Computing |
+| [Salman Yusuf](https://www.linkedin.com/in/salman-yusuf-145973193/)                                     | C125DKX4551 |    Cloud Computing |
+| [Ridho Gymnastiar Al Rasyid](https://www.linkedin.com/in/ridhogaa/)                                     | A375DSX2095 | Mobile Development |
+| [Adib Fahri Kafabih](https://www.linkedin.com/in/adib-fahri-kafabih-740878227/)                         | A125DKX4701 | Mobile Development |
