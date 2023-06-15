@@ -6,7 +6,7 @@
 <h3 align="center"><strong>Personalized Healthy Meal App</strong></h3>
 
 <hr>
-
+To address the issue of poor dietary habits and the double burden of malnutrition, we propose developing an app called "TummyFit." This app aims to improve health outcomes by offering personalized meal plans, a healthy meal database, and a grocery list generator. Users can easily select meals based on their preferences and dietary needs, while the app assists with scheduling, recipes, and grocery shopping. By providing a convenient and personalized tool, TummyFit aims to promote healthy eating habits, prevent chronic diseases, and make meal planning hassle-free.
 ## Features
 
 - Water Intake: Users can input the amount of water they have consumed daily. This feature provides information to users when it's time for them to drink water, helping them stay hydrated and prevent dehydration.
@@ -69,5 +69,4 @@ width="20%">
 <img src="/images/pg.png" width="90px" height="60px">
 <img src="/images/express.png" width="90px" height="55px">
 <img src="/images/flask.png" width="90px" height="55px">
-
 </p>
