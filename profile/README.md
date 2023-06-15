@@ -57,3 +57,13 @@ width="20%">
 | [Salman Yusuf](https://www.linkedin.com/in/salman-yusuf-145973193/)                                     | C125DKX4551 |    Cloud Computing |
 | [Ridho Gymnastiar Al Rasyid](https://www.linkedin.com/in/ridhogaa/)                                     | A375DSX2095 | Mobile Development |
 | [Adib Fahri Kafabih](https://www.linkedin.com/in/adib-fahri-kafabih-740878227/)                         | A125DKX4701 | Mobile Development |
+
+## Tech Stack
+
+<img src="/images/ts.png" width="90px" height="55px">
+<img src="/images/prisma.png" width="90px" height="55px">
+<img src="/images/kotlin.png" width="90px" height="55px">
+
+<img src="/images/python.png" width="50px" height="50px">
+<img src="/images/tf.png" width="90px" height="55px">
+<img src="/images/pg.png" width="90px" height="60px">
