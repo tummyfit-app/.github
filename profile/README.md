@@ -67,9 +67,12 @@ width="20%">
 <img src="/images/kotlin.png" width="90px" height="55px">
 <img src="/images/python.png" width="50px" height="50px">
 <img src="/images/tf.png" width="90px" height="55px">
+</p>
+
+<p align="center">
 <img src="/images/pg.png" width="90px" height="60px">
 <img src="/images/express.png" width="90px" height="55px">
 <img src="/images/flask.png" width="90px" height="55px">
+<img src="/images/docker.png" width="70px" height="55px">
+<img src="/images/gcp.png" width="90px" height="55px">
 </p>
-
-![Alt text](image.png)
